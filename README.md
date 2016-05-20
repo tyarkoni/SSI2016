@@ -15,7 +15,7 @@ Or:
 
 > pip install [package]
 
-Packages we'll almost certainly work with (which you may want to install ahead of time) include `seaborn`, `statsmodels`, and `rpy2`--all of which can be installed with `conda install` (e.g., `conda install seaborn`).
+Packages we'll almost certainly work with (which you may want to install ahead of time) include `scikit-learn`, `seaborn`, `statsmodels`, and `rpy2`--all of which can be installed with `conda install` (e.g., `conda install seaborn`).
 
 ## Testing your environment
 
