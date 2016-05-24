@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+html {{
+    display: table;
+    margin: auto;
+}}
+body {{
+    width: 800px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-top: 30px;
+    font-family: Helvetica, Arial;
+}}
+#table {{
+    margin-top: 30px;
+}}
+</style>
+<title>My lovely report</title>
+</head>
+<body>
+<h1>My lovely report</h1>
+<h3><b>Dataset</b>: {dataset_name}
+<h3><b>Number of rows</b>: {number_of_rows}
+<div id="table">
+{table_contents}
+</div>
+</body>
