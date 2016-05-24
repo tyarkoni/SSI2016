@@ -2,6 +2,10 @@
 
 This repository contains Jupyter notebooks, code samples, and all other materials used in the Intro to Data Science in Python course taught at the [2016 UT Summer Statistics Institute](https://stat.utexas.edu/training/ssi). Links to new sections or resources will be added below as content is added.
 
+## Course overview/links
+
+* [Day 1: The Python Data Science Stack](https://github.com/tyarkoni/SSI2016/blob/master/notebooks/Day%201%20-%20the%20Python%20data%20science%20stack.ipynb)
+
 ## Setup
 To get the most out of the course, you'll probably want to show up to class with a laptop set up with a working scientific Python environment. The easiest way to accomplish this is to install the [Anaconda distribution](https://www.continuum.io/downloads), available for all major operating systems. You can install anaconda from:
 
