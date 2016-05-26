@@ -7,6 +7,7 @@ This repository contains Jupyter notebooks, code samples, and all other material
 * [Day 1: The Python Data Science Stack](https://github.com/tyarkoni/SSI2016/blob/master/notebooks/Day%201%20-%20the%20Python%20data%20science%20stack.ipynb)
 * [Day 2: Data Munging](https://github.com/tyarkoni/SSI2016/blob/master/notebooks/Day%202%20-%20data%20munging.ipynb)
 * [Day 3: Visualizing and Analyzing Data](https://github.com/tyarkoni/SSI2016/blob/master/notebooks/Day%203%20-%20Exploring%20and%20analyzing%20data%20in%20Python.ipynb) (optionally, you can also take a look at the [preprocessing notebook](https://github.com/tyarkoni/SSI2016/blob/master/notebooks/Day%203%20-%20Data%20Cleaning.ipynb))
+* [Day 4: Machine learning in scikit-learn](https://github.com/tyarkoni/SSI2016/blob/master/notebooks/Day%204%20-%20Machine%20learning%20in%20scikit-learn.ipynb)
 
 ## Setup
 To get the most out of the course, you'll probably want to show up to class with a laptop set up with a working scientific Python environment. The easiest way to accomplish this is to install the [Anaconda distribution](https://www.continuum.io/downloads), available for all major operating systems. You can install anaconda from:
